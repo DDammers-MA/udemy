@@ -484,12 +484,6 @@ body {
     width: 100%;
     background: rgba(225, 225, 225, 0.636);
   }
-  .proGamer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
 }
 @media screen and (max-width: 51.25rem) {
   .nav__udemy {
@@ -565,7 +559,6 @@ body {
   }
   .proGamer {
     padding: 8rem;
-    gap: 0rem;
   }
   .proGamer__figure {
     height: 40rem;
